@@ -1,0 +1,20 @@
+2021-10-31 14:36:40,444 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-31 14:36:40,448 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.220.1:9098_true,
+
+2021-10-31 14:37:00,229 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-31 14:37:00,229 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.220.1:9001_true,
+
+2021-10-31 14:37:25,656 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:8062:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-31 14:37:25,656 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.220.1:8062_true,
+
+2021-10-31 14:37:47,660 INFO DEFAULT_GROUP@@security-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-31 14:37:47,660 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@security-service, ips: 192.168.220.1:9002_true,
+
+2021-10-31 14:38:06,503 INFO DEFAULT_GROUP@@item-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.220.1:9005:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-10-31 14:38:06,503 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@item-service, ips: 192.168.220.1:9005_true,
+

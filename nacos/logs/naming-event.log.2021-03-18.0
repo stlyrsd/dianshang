@@ -1,0 +1,184 @@
+2021-03-18 11:46:15,549 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 11:46:15,554 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.56.1:9098_true,
+
+2021-03-18 11:47:45,416 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.56.1:9098_true,
+
+2021-03-18 11:51:25,433 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9098@DEFAULT@DEFAULT_GROUP@@auth-center, region: unknown, msg: client timeout after 15000, last beat: 1616039465562
+
+2021-03-18 11:51:40,446 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9098:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 11:51:40,446 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 
+
+2021-03-18 11:52:01,081 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 11:52:01,081 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.56.1:9098_true,
+
+2021-03-18 11:53:05,462 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9098@DEFAULT@DEFAULT_GROUP@@auth-center, region: unknown, msg: client timeout after 15000, last beat: 1616039566107
+
+2021-03-18 11:53:20,466 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9098:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 11:53:20,467 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 
+
+2021-03-18 11:55:46,052 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 11:55:46,052 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.56.1:9098_true,
+
+2021-03-18 11:57:41,505 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.56.1:9098_true,
+
+2021-03-18 11:58:39,814 INFO DEFAULT_GROUP@@security-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 11:58:39,814 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@security-service, ips: 192.168.56.1:9002_true,
+
+2021-03-18 11:59:06,859 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 11:59:06,859 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.56.1:9001_true,
+
+2021-03-18 11:59:24,273 INFO DEFAULT_GROUP@@item-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9005:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 11:59:24,273 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@item-service, ips: 192.168.56.1:9005_true,
+
+2021-03-18 12:00:23,308 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8062:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 12:00:23,308 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.56.1:8062_true,
+
+2021-03-18 12:07:46,942 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9001@DEFAULT@DEFAULT_GROUP@@admin-service, region: unknown, msg: client timeout after 15000, last beat: 1616040447145
+
+2021-03-18 12:08:01,947 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 12:08:01,947 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-03-18 12:08:46,032 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 12:08:46,032 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.56.1:9001_true,
+
+2021-03-18 12:09:56,964 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9001@DEFAULT@DEFAULT_GROUP@@admin-service, region: unknown, msg: client timeout after 15000, last beat: 1616040581060
+
+2021-03-18 12:09:58,409 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:8062@DEFAULT@DEFAULT_GROUP@@gateway, region: unknown, msg: client timeout after 15000, last beat: 1616040578609
+
+2021-03-18 12:09:59,385 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9005@DEFAULT@DEFAULT_GROUP@@item-service, region: unknown, msg: client timeout after 15000, last beat: 1616040579602
+
+2021-03-18 12:09:59,935 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9002@DEFAULT@DEFAULT_GROUP@@security-service, region: unknown, msg: client timeout after 15000, last beat: 1616040580171
+
+2021-03-18 12:10:01,219 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9098@DEFAULT@DEFAULT_GROUP@@auth-center, region: unknown, msg: client timeout after 15000, last beat: 1616040581911
+
+2021-03-18 12:10:11,968 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 12:10:11,968 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-03-18 12:10:13,414 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8062:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 12:10:13,414 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2021-03-18 12:10:14,391 INFO DEFAULT_GROUP@@item-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9005:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 12:10:14,391 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@item-service, ips: 
+
+2021-03-18 12:10:14,940 INFO DEFAULT_GROUP@@security-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 12:10:14,940 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@security-service, ips: 
+
+2021-03-18 12:10:16,221 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9098:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 12:10:16,221 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 
+
+2021-03-18 12:13:00,579 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 12:13:00,579 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.56.1:9098_true,
+
+2021-03-18 12:14:08,890 INFO DEFAULT_GROUP@@security-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 12:14:08,890 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@security-service, ips: 192.168.56.1:9002_true,
+
+2021-03-18 12:14:22,181 INFO DEFAULT_GROUP@@item-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9005:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 12:14:22,181 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@item-service, ips: 192.168.56.1:9005_true,
+
+2021-03-18 12:14:34,382 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 12:14:34,382 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.56.1:9001_true,
+
+2021-03-18 12:14:48,790 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8062:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 12:14:48,790 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.56.1:8062_true,
+
+2021-03-18 13:20:34,560 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9002@DEFAULT@DEFAULT_GROUP@@security-service, region: unknown, msg: client timeout after 15000, last beat: 1616043830290
+
+2021-03-18 13:20:34,560 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9001@DEFAULT@DEFAULT_GROUP@@admin-service, region: unknown, msg: client timeout after 15000, last beat: 1616043825777
+
+2021-03-18 13:20:34,560 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:8062@DEFAULT@DEFAULT_GROUP@@gateway, region: unknown, msg: client timeout after 15000, last beat: 1616043830201
+
+2021-03-18 13:20:34,560 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9005@DEFAULT@DEFAULT_GROUP@@item-service, region: unknown, msg: client timeout after 15000, last beat: 1616043828576
+
+2021-03-18 13:20:34,560 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9098@DEFAULT@DEFAULT_GROUP@@auth-center, region: unknown, msg: client timeout after 15000, last beat: 1616043827041
+
+2021-03-18 13:20:34,564 INFO DEFAULT_GROUP@@security-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 13:20:34,564 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@security-service, ips: 
+
+2021-03-18 13:20:34,565 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 13:20:34,565 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+
+2021-03-18 13:20:34,565 INFO DEFAULT_GROUP@@item-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9005:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 13:20:34,565 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@item-service, ips: 
+
+2021-03-18 13:20:34,565 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9098:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 13:20:34,565 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 
+
+2021-03-18 13:20:34,565 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8062:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 13:20:34,565 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2021-03-18 13:20:34,770 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 13:20:34,770 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 192.168.56.1:9001_true,
+
+2021-03-18 13:20:36,036 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9098:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 13:20:36,036 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 192.168.56.1:9098_true,
+
+2021-03-18 13:20:37,570 INFO DEFAULT_GROUP@@item-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9005:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 13:20:37,570 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@item-service, ips: 192.168.56.1:9005_true,
+
+2021-03-18 13:20:39,192 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8062:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 13:20:39,192 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.56.1:8062_true,
+
+2021-03-18 13:20:39,281 INFO DEFAULT_GROUP@@security-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-03-18 13:20:39,281 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@security-service, ips: 192.168.56.1:9002_true,
+
+2021-03-18 13:22:34,587 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9098@DEFAULT@DEFAULT_GROUP@@auth-center, region: unknown, msg: client timeout after 15000, last beat: 1616044936078
+
+2021-03-18 13:22:34,587 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9002@DEFAULT@DEFAULT_GROUP@@security-service, region: unknown, msg: client timeout after 15000, last beat: 1616044939328
+
+2021-03-18 13:22:34,587 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9005@DEFAULT@DEFAULT_GROUP@@item-service, region: unknown, msg: client timeout after 15000, last beat: 1616044937615
+
+2021-03-18 13:22:34,587 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:8062@DEFAULT@DEFAULT_GROUP@@gateway, region: unknown, msg: client timeout after 15000, last beat: 1616044939238
+
+2021-03-18 13:22:39,589 INFO {POS} {IP-DISABLED} valid: 192.168.56.1:9001@DEFAULT@DEFAULT_GROUP@@admin-service, region: unknown, msg: client timeout after 15000, last beat: 1616044939821
+
+2021-03-18 13:22:49,598 INFO DEFAULT_GROUP@@security-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 13:22:49,598 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@security-service, ips: 
+
+2021-03-18 13:22:49,598 INFO DEFAULT_GROUP@@item-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9005:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 13:22:49,598 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@item-service, ips: 
+
+2021-03-18 13:22:49,598 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8062:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 13:22:49,598 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2021-03-18 13:22:49,598 INFO DEFAULT_GROUP@@auth-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9098:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 13:22:49,598 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@auth-center, ips: 
+
+2021-03-18 13:22:54,594 INFO DEFAULT_GROUP@@admin-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-03-18 13:22:54,594 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@admin-service, ips: 
+

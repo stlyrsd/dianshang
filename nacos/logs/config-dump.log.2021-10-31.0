@@ -1,0 +1,28 @@
+2021-10-31 14:29:00,711 INFO [dump-all-ok] common.yaml+DEFAULT_GROUP, 1616036812762, length=597, md5=f0846eb078f2f8574e67d66012c25602
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] db.yaml+DEFAULT_GROUP, 1616036908012, length=591, md5=a25ec397203a091f4f89aa3a94c522a8
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] security.yaml+DEFAULT_GROUP, 1616036964863, length=131, md5=002071a53c835ed054759bcce0d8d127
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] auth-center-dev.yaml+DEFAULT_GROUP, 1616037224165, length=84, md5=9773e9d9a87d5621b48a8f7ff2de0434
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] gateway-dev.yaml+DEFAULT_GROUP, 1616037370863, length=1391, md5=cf8209adfd9c4042295f8be4d63e3012
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] admin-service-dev.yaml+DEFAULT_GROUP, 1616037421769, length=21, md5=966d600486bd58d79ecbb04e62efb72c
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] canal-service-dev.yaml+DEFAULT_GROUP, 1616037578156, length=219, md5=e791674f089c078d03a9d5bda459fdd5
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] item-service-dev.yaml+DEFAULT_GROUP, 1616037826110, length=21, md5=4eb491b7e301c35fbe15c721e4ca4864
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] order-service-dev.yaml+DEFAULT_GROUP, 1616038107088, length=519, md5=cf8489a14de4a9a8d77b1458bdc236aa
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] page-service-dev.yaml+DEFAULT_GROUP, 1616038302594, length=21, md5=6528ea739f46f51457c43c83223358db
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] pay-service-dev.yaml+DEFAULT_GROUP, 1616038374742, length=245, md5=39d6973a373061e115239fcc89020e61
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] search-service-dev.yaml+DEFAULT_GROUP, 1616038810679, length=274, md5=0c07f925ead4dd4bc0239f632c0ff257
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] security-service-dev.yaml+DEFAULT_GROUP, 1616038889648, length=305, md5=52415655502d90a7b3f0b643d44401ea
+
+2021-10-31 14:29:00,711 INFO [dump-all-ok] upload-service-dev.yaml+DEFAULT_GROUP, 1616038938883, length=309, md5=b785f11f5f6688196c4600ed71064349
+

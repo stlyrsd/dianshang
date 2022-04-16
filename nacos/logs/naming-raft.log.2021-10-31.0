@@ -1,0 +1,52 @@
+2021-10-31 14:28:59,961 INFO raft peers changed: [Member{ip='192.168.220.1', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2021-10-31 14:28:59,993 INFO initializing Raft sub-system
+
+2021-10-31 14:28:59,993 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2021-10-31 14:28:59,993 INFO cache loaded, datum count: 0, current term: 0
+
+2021-10-31 14:28:59,993 INFO finish to load data from disk, cost: 0 ms.
+
+2021-10-31 14:28:59,993 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2021-10-31 14:29:00,508 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2021-10-31 14:29:00,524 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2021-10-31 14:29:04,945 WARN start to close old raft protocol!!!
+
+2021-10-31 14:29:04,945 WARN stop old raft protocol task for notifier
+
+2021-10-31 14:29:04,945 WARN stop old raft protocol task for master task
+
+2021-10-31 14:29:04,945 WARN stop old raft protocol task for heartbeat task
+
+2021-10-31 14:29:04,945 WARN clean old cache datum for old raft
+
+2021-10-31 14:29:04,945 WARN start to close old raft protocol!!!
+
+2021-10-31 14:29:04,945 WARN stop old raft protocol task for notifier
+
+2021-10-31 14:29:04,945 WARN stop old raft protocol task for master task
+
+2021-10-31 14:29:04,945 WARN stop old raft protocol task for heartbeat task
+
+2021-10-31 14:29:04,945 WARN clean old cache datum for old raft
+
+2021-10-31 14:29:04,945 WARN start to move old raft protocol metadata
+
+2021-10-31 14:29:04,945 WARN start to move old raft protocol metadata
+
+2021-10-31 14:29:04,945 INFO raft peers changed: [Member{ip='192.168.220.1', port=8848, state=UP, extendInfo={lastRefreshTime=1635661744945, raftPort=7848, version=1.4.1}}]
+
+2021-10-31 14:36:40,288 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@auth-center
+
+2021-10-31 14:37:00,229 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@admin-service
+
+2021-10-31 14:37:25,656 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway
+
+2021-10-31 14:37:47,660 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@security-service
+
+2021-10-31 14:38:06,503 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@item-service
+

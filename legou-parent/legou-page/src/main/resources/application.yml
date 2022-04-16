@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: page-service
+  profiles:
+    active: dev
+
+# 生成静态页的位置
+pagepath: d:\temp
