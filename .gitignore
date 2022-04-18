@@ -19,5 +19,5 @@
 /legou-parent/legou-security/legou-security-instance/target/
 /legou-parent/legou-security/legou-security-service/target/
 /legou-parent/legou-upload/target/
-.idea
-.gitignore
+/.gitignore
+/.idea/
